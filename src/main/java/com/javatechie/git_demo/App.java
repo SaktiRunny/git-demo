@@ -11,7 +11,9 @@ public class App
 		if(data.equals(Constant.DATA_TYPE)) {
 			System.out.println("Welcome to git-hub");
 		}
-		
+		public void addMethod(){
+			System.out.println("new method added");
+		}
 	}
 		
 	
